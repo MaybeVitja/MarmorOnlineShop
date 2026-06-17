@@ -247,7 +247,7 @@
 
                 {{-- ④ YouTube --}}
                 {{-- HIER: 'DEIN-YOUTUBE-NAME' durch deinen echten Namen ersetzen --}}
-                <a href="https://www.youtube.com/@BlockToCreative"
+                <a href="https://www.youtube.com/@DeinName"
                    target="_blank" rel="noopener noreferrer"
                    class="btn-social">
                     <span class="icon">
