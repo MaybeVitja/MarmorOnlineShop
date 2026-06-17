@@ -235,7 +235,7 @@
 
                 {{-- ③ TikTok --}}
                 {{-- HIER: 'DEIN-TIKTOK-NAME' durch deinen echten Namen ersetzen --}}
-                <a href="https://www.tiktok.com/@DEIN-TIKTOK-NAME"
+                <a href="https://www.tiktok.com/@denis_rii"
                    target="_blank" rel="noopener noreferrer"
                    class="btn-social">
                     <span class="icon">
