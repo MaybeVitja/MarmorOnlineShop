@@ -257,6 +257,17 @@
                     <i class="fa-solid fa-arrow-up-right-from-square arr" aria-hidden="true"></i>
                 </a>
 
+                {{-- ⑤ Facebook --}}
+                <a href="https://www.facebook.com/DEIN-FACEBOOK-NAME"
+                target="_blank" rel="noopener noreferrer"
+                class="btn-social">
+                    <span class="icon">
+                        <i class="fa-brands fa-facebook" style="font-size:1.25rem;color:#1877F2;" aria-hidden="true"></i>
+                    </span>
+                    <span class="lbl">Facebook</span>
+                    <i class="fa-solid fa-arrow-up-right-from-square arr" aria-hidden="true"></i>
+                </a>
+
             </nav>
 
             {{-- ══════════════════════════════════════ --}}
